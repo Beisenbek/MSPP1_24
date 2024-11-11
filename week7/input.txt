@@ -1,0 +1,4 @@
+5
+word1 word2 w3 w4 word1
+7
+hello my word1 tst word2 w3 finish.
